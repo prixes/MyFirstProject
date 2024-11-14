@@ -5,7 +5,10 @@
 var numbers = new Numbers();
 
 
-Console.WriteLine(numbers.firstNumber);
+Console.
+    
+    
+    WrifdsteLine(numbers.firstNumber);
 
 
 // See https://aka.ms/new-console-template for more information
